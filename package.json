@@ -1,0 +1,39 @@
+{
+  "name": "gulp",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yoshihito fujiwara",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-plugin-glslify": "^2.0.0",
+    "babel-preset-env": "^1.6.1",
+    "babelify": "^8.0.0",
+    "browser-sync": "^2.12.8",
+    "browserify": "^14.0.0",
+    "glsl-noise": "0.0.0",
+    "glsl-random": "0.0.5",
+    "glslify": "^6.1.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-glslify": "git+https://github.com/yuichiroharai/gulp-glslify.git",
+    "gulp-if": "^2.0.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-pleeease": "^2.0.2",
+    "gulp-plumber": "^1.1.0",
+    "gulp-remove-logging": "^1.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-ruby-sass": "^2.1.1",
+    "gulp-uglify": "^2.0.1",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1",
+    "npm": "^5.6.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
